@@ -1,0 +1,6 @@
+hw/hpac_corpus
+hw/hpac_source
+hw/*.zip
+
+.idea
+.DS_Store
